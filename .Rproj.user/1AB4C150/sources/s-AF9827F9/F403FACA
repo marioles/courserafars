@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593812330383.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F403FACA",
+    "lastKnownWriteTime" : 1593813042,
+    "last_content_update" : 1593813042504,
+    "path" : "~/Google Drive/Coursera/Mastering R Software Development/codes/03_pkg/courserafars/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+        "cursorPosition" : "8,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
