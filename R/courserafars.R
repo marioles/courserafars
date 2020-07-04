@@ -4,7 +4,7 @@
 #'
 #' @docType package
 #'
-#' @author Mario Morales \email{mario@moralesalfaro.cl}
+#' @author Mario Morales \email{mario@mario.cl}
 #'
 #' @name courserafars
 NULL

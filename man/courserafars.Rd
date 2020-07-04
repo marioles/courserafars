@@ -8,5 +8,5 @@
 This package is the final assignment of the course.
 }
 \author{
-Mario Morales \email{mario@moralesalfaro.cl}
+Mario Morales \email{mario@mario.cl}
 }

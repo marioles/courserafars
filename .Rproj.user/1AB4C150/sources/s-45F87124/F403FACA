@@ -7,12 +7,12 @@
     "folds" : "",
     "hash" : "0",
     "id" : "F403FACA",
-    "lastKnownWriteTime" : 1593813042,
-    "last_content_update" : 1593813042504,
+    "lastKnownWriteTime" : 1593900873,
+    "last_content_update" : 1593900873607,
     "path" : "~/Google Drive/Coursera/Mastering R Software Development/codes/03_pkg/courserafars/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "8,12",
+        "cursorPosition" : "6,38",
         "scrollLine" : "0"
     },
     "read_only" : false,

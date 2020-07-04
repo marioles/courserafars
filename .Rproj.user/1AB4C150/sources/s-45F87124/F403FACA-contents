@@ -4,7 +4,7 @@ Imports: dplyr, magrittr, maps, readr, tidyr
 Title: Building R packages
 Version: 0.1.0
 Author: Mario Morales
-Maintainer: Mario Morales <mario@moralesalfaro.cl>
+Maintainer: Mario Morales <mario@mario.cl>
 Description: This package is the final assignment of the course.
 License: GPL-2
 Encoding: UTF-8
